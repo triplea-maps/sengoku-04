@@ -1,0 +1,17 @@
+# (0,0) is top left
+
+Aki  (1727,1288)
+Awa Shikoku  (2022,2156)
+North Mutsu  (5403,519)
+Owari  (3557,2128)
+Satsuma  (564,2015)
+South Musashi  (4556,2080)
+
+#Aki  (1727,1238)
+#Awa Shikoku  (2022,2106)
+#North Mutsu  (5403,569)
+#Owari  (3557,2078)
+#Satsuma  (564,1965)
+#South Musashi  (4556,2030)
+
+

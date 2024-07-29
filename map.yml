@@ -1,0 +1,3 @@
+map_name: sengoku
+games:
+- {game_name: Sengoku - Nippon Warring States, file_name: sengoku.xml}
